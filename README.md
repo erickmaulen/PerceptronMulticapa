@@ -21,3 +21,7 @@ python main.py
 
 
 ### Presentacion
+
+
+### Referencias
+https://towardsdatascience.com/why-and-how-to-cross-validate-a-model-d6424b45261f
